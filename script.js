@@ -61,5 +61,4 @@ document.querySelector('.again').addEventListener('click',() => {
   document.querySelector('.number').style.width = "150px";
   document.querySelector('.number').textContent = "?";
   document.querySelector('.guess-header').textContent = "Guess My Number!";
-  console.log(secretNumber)
 })
